@@ -150,6 +150,9 @@ export default async function Video({ params }: PageProps) {
                     </CardTitle>
                 </CardHeader>
             </Card>
+            <Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/>
+            <ins id="1025826" data-width="300" data-height="262"/>
+            <Script data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1025826});</script>
             <p>Bokep {file.title} di {SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Terbaru Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja {SITENAME} wiki raja bokeptube full porno bokepmama simontok bokepind playbokep indobokep xpanasonline indoh janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh</p>
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video Bokep {file.title}
