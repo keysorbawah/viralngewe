@@ -1,2 +1,2 @@
-# viralngewe
-viralngewe
+A live demo of the project is available at [https://viralngewe.pages.dev](https://viralngewe.pages.dev/).
+Fork the [repository](https://github.com/mutilbogeh/bocilsdcolmek) on GitHub.
